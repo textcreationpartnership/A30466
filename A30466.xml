@@ -120,13 +120,16 @@
             <p>Written by his own Direction on his Death-Bed, By <hi>Gilbert Burnet,</hi> D. D.</p>
             <p>
                <hi>LONDON,</hi> Printed for <hi>Richard Chiswel,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Pauls Church-Yard.</hi> 1680.</p>
-            <figure>
-               <p>R White s<gap reason="illegible: indecipherable" extent="4 letters">
-                     <desc>••••</desc>
-                  </gap>
-               </p>
-               <p>The R.<hi rend="sup">gt</hi> Hon<hi rend="sup">ble</hi>: Iohn Earle of Rochester Baron Wilmot of Adderbury in England, &amp; Viscount Wilmot of Atholne in Ireland. Born Ap 1648 Died. 26. July. 1680</p>
-            </figure>
+            <p>
+               <pb facs="tcp:48331:2"/>
+               <figure>
+                  <p>R White s<gap reason="illegible: indecipherable" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </p>
+                  <p>The R.<hi rend="sup">gt</hi> Hon<hi rend="sup">ble</hi>: Iohn Earle of Rochester Baron Wilmot of Adderbury in England, &amp; Viscount Wilmot of Atholne in Ireland. Born Ap 1648 Died. 26. July. 1680</p>
+               </figure>
+            </p>
          </div>
          <div type="preface">
             <pb facs="tcp:48331:3" rendition="simple:additions"/>
